@@ -1,2 +1,2 @@
-# languages
-Testing new languages
+# Repository to study Python
+
