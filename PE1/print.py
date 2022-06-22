@@ -1,7 +1,7 @@
 print('Hello, Wolrd!')
 
 # invocação da função
-function_name(argument)
+# function_name(argument)
 
 # newline
 print()
